@@ -1,0 +1,23 @@
+{
+  "name": "geektime",
+  "version": "1.0.0",
+  "description": "learn geek time book and lession",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/199305a/geektime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/199305a/geektime/issues"
+  },
+  "homepage": "https://github.com/199305a/geektime#readme",
+  "devDependencies": {
+    "react": "^17.0.2"
+  }
+}
